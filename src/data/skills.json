@@ -1,0 +1,17 @@
+[
+    {
+        "skillName": "HTML/CSS",
+        "skillScale": 80,
+        "skillDescription": "NodeJS"
+    },
+    {
+        "skillName": "NodeJS",
+        "skillScale": 60,
+        "skillDescription": "NodeJS"
+    },
+    {
+        "skillName": "ReactJS",
+        "skillScale": 50,
+        "skillDescription": "NodeJS"
+    }
+]
